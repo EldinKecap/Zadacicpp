@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646046885 source:c:\users\korisnik\desktop\programski jezici i programiranje\zadaci za vjezbu\23.zadatak\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<iterator>
+
